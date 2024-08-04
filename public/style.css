@@ -1,0 +1,20 @@
+h1{
+color: maroon;
+text-decoration: black underline;
+}
+
+.user{
+    font-style: italic;
+}
+
+.post{
+background-color: blanchedalmond;
+}
+
+body{
+    background-color:burlywood ;
+}
+
+.button{
+    background-color: darkgray;
+}
